@@ -1,0 +1,3 @@
+Our hospital provides online appointment booking.
+Patients can visit from 9 AM to 5 PM.
+Emergency services are available 24/7.

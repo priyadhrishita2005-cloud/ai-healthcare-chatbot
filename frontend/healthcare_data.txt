@@ -1,0 +1,235 @@
+what is diabetes
+Diabetes is a disease where blood sugar levels become too high.
+
+what is blood pressure
+Blood pressure is the force of blood pushing against artery walls.
+
+how to control blood pressure
+Reduce salt intake, exercise regularly, and avoid stress.
+
+what is dengue
+Dengue is a mosquito-borne viral infection causing fever and body pain.
+
+how to prevent dengue
+Keep surroundings clean and avoid stagnant water.
+
+what is fever
+Fever is a temporary increase in body temperature due to infection.
+
+what are symptoms of fever
+Common symptoms are sweating, headache, weakness, and high temperature.
+
+what is covid
+COVID-19 is a viral disease affecting the respiratory system.
+
+how to prevent covid
+Wash hands regularly, wear masks, and maintain social distancing.
+
+what is vaccination
+Vaccination protects people from dangerous infectious diseases.
+
+why is vaccination important
+Vaccination helps prevent serious diseases and improves immunity.
+
+what is anemia
+Anemia is a condition caused by low red blood cells.
+
+symptoms of anemia
+Weakness, tiredness, pale skin, and dizziness are common symptoms.
+
+what is bmi
+BMI means Body Mass Index used to measure body fat.
+
+how to maintain healthy weight
+Eat healthy food and exercise regularly.
+
+what is healthy diet
+A healthy diet includes fruits, vegetables, proteins, and enough water.
+
+how much water should we drink daily
+Adults should drink around 2 to 3 liters of water daily.
+
+what is first aid
+First aid is immediate medical help before professional treatment.
+
+what is emergency ward
+Emergency ward provides urgent treatment for critical conditions.
+
+ambulance number
+Call emergency ambulance services for urgent medical help.
+
+what is ambulance service
+Ambulance service transports patients during emergencies.
+
+hospital timings
+Most hospitals are open from 8 AM to 8 PM.
+
+how to book appointment
+Appointments can be booked through reception or hospital website.
+
+appointment booking
+Patients can book appointments online or directly at hospital reception.
+
+required documents
+Carry ID proof, medical records, and prescriptions.
+
+hospital documents
+Bring Aadhaar card, prescriptions, and previous reports.
+
+insurance documents
+Carry insurance card, ID proof, and medical records.
+
+what is opd
+OPD means Out Patient Department where patients receive consultation.
+
+where is cardiology department
+Cardiology department treats heart-related diseases.
+
+where is orthopedics department
+Orthopedics department treats bone and joint problems.
+
+where is neurology department
+Neurology department treats brain and nerve disorders.
+
+where is pediatrics department
+Pediatrics department provides healthcare for children.
+
+where is gynecology department
+Gynecology department provides healthcare for women.
+
+pregnancy care
+Pregnancy care includes regular checkups and healthy nutrition.
+
+child health
+Child health focuses on nutrition, vaccination, and growth.
+
+what is stress
+Stress is the body's response to pressure or tension.
+
+how to reduce stress
+Meditation, exercise, and proper sleep help reduce stress.
+
+what is health insurance
+Health insurance helps cover medical expenses.
+
+what is ai in healthcare
+AI in healthcare helps doctors analyze medical data and improve treatment.
+
+what is machine learning
+Machine learning allows systems to learn from data automatically.
+
+what is chatbot
+A chatbot is software that automatically answers user questions.
+
+who developed python
+Python was developed by Guido van Rossum.
+
+what is malaria
+Malaria is a mosquito-borne disease causing fever and chills.
+
+how to prevent malaria
+Use mosquito nets and keep surroundings clean.
+
+what is dehydration
+Dehydration happens when the body loses too much water.
+
+symptoms of dehydration
+Dry mouth, dizziness, and tiredness are common symptoms.
+
+what is asthma
+Asthma is a condition affecting breathing and lungs.
+
+symptoms of asthma
+Wheezing, coughing, and breathing difficulty are common symptoms.
+
+what is tuberculosis
+Tuberculosis is a bacterial infection mainly affecting lungs.
+
+symptoms of tuberculosis
+Persistent cough, chest pain, and weight loss are common symptoms.
+
+what is nutrition
+Nutrition is the process of consuming healthy food for body growth.
+
+what is obesity
+Obesity means excessive body fat affecting health.
+
+how to prevent obesity
+Exercise regularly and avoid unhealthy food.
+
+what is mental health
+Mental health includes emotional and psychological well-being.
+
+how to improve mental health
+Talk with others, exercise, and reduce stress.
+
+what is hygiene
+Hygiene means maintaining cleanliness to prevent diseases.
+
+importance of hand washing
+Hand washing prevents spread of infections and diseases.
+
+what is cholesterol
+Cholesterol is a fatty substance present in blood.
+
+how to control cholesterol
+Eat healthy food and avoid oily items.
+
+what is heart attack
+Heart attack occurs when blood flow to heart is blocked.
+
+symptoms of heart attack
+Chest pain, breathing difficulty, and sweating are symptoms.
+
+what is stroke
+Stroke occurs when blood supply to brain is interrupted.
+
+symptoms of stroke
+Face drooping, weakness, and speech difficulty are symptoms.
+
+what is kidney disease
+Kidney disease affects the normal functioning of kidneys.
+
+symptoms of kidney disease
+Swelling, tiredness, and changes in urination are symptoms.
+
+what is liver disease
+Liver disease affects liver functioning and digestion.
+
+symptoms of liver disease
+Jaundice, stomach pain, and fatigue are symptoms.
+
+what is pneumonia
+Pneumonia is a lung infection causing breathing difficulty.
+
+symptoms of pneumonia
+Fever, cough, and chest pain are common symptoms.
+
+what is thyroid disease
+Thyroid disease affects hormone production in the body.
+
+symptoms of thyroid disease
+Weight changes, tiredness, and mood swings are symptoms.
+
+what is cancer
+Cancer is uncontrolled growth of abnormal cells in the body.
+
+cancer warning signs
+Unusual lumps, weight loss, and fatigue can be warning signs.
+
+importance of exercise
+Exercise improves heart health and overall fitness.
+
+benefits of yoga
+Yoga improves flexibility, mental health, and relaxation.
+
+what is balanced diet
+Balanced diet includes carbohydrates, proteins, fats, vitamins, and minerals.
+
+what is immunity
+Immunity protects the body from infections and diseases.
+
+how to improve immunity
+Healthy food, sleep, exercise, and vaccination improve immunity.
+what is eye care
+Eye care includes regular eye checkups and hygiene.

@@ -1,0 +1,14 @@
+Cardiology department timing is 9 AM to 4 PM.
+
+Orthopedic department is in Block B.
+
+Neurology department is in Block C.
+
+To book appointment:
+1. Go to reception
+2. Show Aadhaar card
+3. Collect token
+
+Emergency services are available 24/7.
+
+Lab reports are available in 2 days.
